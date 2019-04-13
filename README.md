@@ -1,2 +1,2 @@
 # jap_expect
-scripts used in manupilating Just Add Power devices
+scripts used in manipulating Just Add Power devices
